@@ -1,11 +1,4 @@
 <div align="center">
-
-  <h1>Hey there 👋 I'm userxx77</h1>
-
-  <p>
-    <strong>23 • The Netherlands</strong>
-  </p>
-
   <!-- Stats Cards -->
   <h2>📊 My GitHub Stats</h2>
   <p align="center">
@@ -24,7 +17,5 @@
   </p>
 
   <br>
-
   <i>Thanks for visiting my profile! ✨</i>
-
 </div>
