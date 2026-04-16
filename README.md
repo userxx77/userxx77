@@ -1,6 +1,5 @@
 <div align="center">
   <!-- Stats Cards -->
-  <h2>📊 My GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=userxx77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C3FF" alt="Stats" height="170" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userxx77&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&title_color=00C3FF" alt="Top Languages" height="170" />
@@ -13,7 +12,7 @@
   <!-- Skills -->
   <h2>🛠️ Skills & Technologies</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,ts,react,rust,lua&perline=5" height="48" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,ts,react,rust,lua&perline=10" height="48" alt="Skills" />
   </p>
 
   <br>
