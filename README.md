@@ -13,7 +13,7 @@
   <!-- Skills -->
   <h2>🛠️ Skills & Technologies</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,terraform,aws,git,docker,linux&perline=8" height="48" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,ts,react,rust,lua&perline=5" height="48" alt="Skills" />
   </p>
 
   <br>
